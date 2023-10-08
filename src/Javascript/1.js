@@ -3,9 +3,9 @@
 
 ////nome = 'Olá Mundo';
 
-var num =3;
+var texto ='Upando primeira página html com JS no Github';
 
 var divElement = document.getElementById('resultado');
 
-divElement.innerHTML = num;
+divElement.innerHTML = texto;
 
