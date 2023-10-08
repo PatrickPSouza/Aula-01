@@ -3,7 +3,7 @@
 
 ////nome = 'Olá Mundo';
 
-var texto ='Upando primeira página html com JS no Github';
+let texto ='Upando primeira página html com JS no Github';
 
 var divElement = document.getElementById('resultado');
 
